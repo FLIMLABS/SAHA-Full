@@ -1,2 +1,2 @@
 # SAHA-Full
-Sample code for SAHA Full
+Sample code SAHA Full
